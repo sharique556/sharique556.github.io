@@ -33,5 +33,5 @@ else if(randomNumber1 < randomNumber2){
     document.querySelector("h1").innerHTML = "Refresh Me<br>Player 2 wins!"
 }
 else{
-    document.querySelector("h1").innerHTML = " Refresh Me<br>opppsss...Draw!"
+    document.querySelector("h1").innerHTML = " Refresh Me<br>oopps..Draw!"
 }
